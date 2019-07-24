@@ -1,0 +1,2 @@
+# alentrepreneur
+A Lazy Entrepreneur.
